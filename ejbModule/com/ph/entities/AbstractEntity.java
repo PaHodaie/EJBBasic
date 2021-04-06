@@ -1,5 +1,6 @@
 package com.ph.entities;
 
+// Base Entity
 public abstract class AbstractEntity {
 	
 	public abstract Object getId();
